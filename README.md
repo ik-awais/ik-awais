@@ -1,31 +1,12 @@
-# 👋 Hello, I'm Muhammad Awais
+👋 Hey, I'm Muhammad Awais
+A programmer passionate about building practical tools with code. I love exploring computer vision, automation, and human-computer interaction to create intuitive solutions.
 
-I'm a programmer passionate about learning and building practical tools with code.  
-I use GitHub to share and document my progress, experiments, and personal projects.
+🛠️ Tech & Tools
+Languages: Python, C++, HTML, CSS
 
----
+Libraries: OpenCV, MediaPipe, PyAutoGUI, NumPy
 
-## 🧠 What I Work With
+Focus Areas: Hand gesture recognition, automation, computer vision
 
-- **Languages:** Python, C++, HTML, CSS  
-- **Libraries/Tools:** OpenCV, MediaPipe, PyAutoGUI, NumPy, Math, Time  
-- **Focus Areas:** Computer vision, hand gesture recognition, and automation
-
----
-
-## 📁 Recent Projects
-
-- **HandTrackingminModule** — A Python module that detects and tracks hand landmarks using OpenCV and MediaPipe.
-- **GestureVolumeControl** — Control system volume through real-time hand gestures.
-- **GestureKeyboardControl** — Simulate keyboard input using tracked hand movements.
-
-These projects reflect my learning journey and interest in building intuitive human-computer interaction tools using computer vision.
-
----
-
-## 📬 Contact
-
-If you’d like to reach out for feedback, collaboration, or questions:  
-**📧 Email:** `mawaisqq@gmail.com`
-
----
+📩 Let’s Connect!
+Have questions, feedback, or just want to chat? Reach out at mawaisqq@gmail.com.
