@@ -3,7 +3,7 @@ A programmer passionate about building practical tools with code. I love explori
 
 **Tech & Tools**
 
-Languages: Python . C++ . HTML . CSS
+Languages: Python . C . C++ . HTML . CSS
 
 Libraries: OpenCV . MediaPipe . PyAutoGUI . NumPy
 
