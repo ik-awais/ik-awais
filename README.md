@@ -1,14 +1,27 @@
-👋 Hey, I'm Muhammad Awais.
-A programmer passionate about building practical tools with code. I love exploring computer vision, automation, and human-computer interaction to create intuitive solutions.
+## 👋 Hi, I’m Muhammad Awais
 
-**Tech & Tools**
+I’m a programmer focused on building **practical, problem-solving tools** through code. My primary interests lie in **computer vision, automation, and human–computer interaction**, where I work on creating intuitive and efficient solutions that bridge software with real-world interaction.
 
-Languages: Python . C . C++ . HTML . CSS
+I enjoy turning ideas into working systems—especially those that involve gesture control, visual input, and automation workflows.
 
-Libraries: OpenCV . MediaPipe . PyAutoGUI . NumPy
+---
 
-Focus Areas: Hand gesture recognition, automation, computer vision
+## 🛠 Tech Stack & Tools
 
-**Let’s Connect!**
+**Languages**  
+Python · C · C++ · HTML · CSS  
 
-Have questions, feedback, or just want to chat? Reach out at mawaisqq@gmail.com.
+**Libraries & Frameworks**  
+OpenCV · MediaPipe · PyAutoGUI · NumPy  
+
+**Core Focus Areas**  
+- Hand gesture recognition  
+- Automation systems  
+- Computer vision applications  
+
+---
+
+## 📫 Let’s Connect
+
+Have questions, feedback, or want to collaborate?  
+Reach me at **mawaisqq@gmail.com**
