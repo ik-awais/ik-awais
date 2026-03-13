@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/ik-awais.png?size=200" width="120" style="border-radius:50%;"/>
-
 # Muhammad Awais
 ### AI Engineer & Developer
 
