@@ -1,20 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=99999&color=FFFFFF&background=06061000&center=true&vCenter=true&width=800&height=80&lines=Muhammad+Awais" alt="Muhammad Awais"/>
+<img src="https://github.com/ik-awais.png?size=200" width="120" style="border-radius:50%;"/>
 
-<br/>
+# Muhammad Awais
+### AI Engineer & Developer
 
-<a href="https://ik-awais.github.io" target="_blank">
-  <img src="https://github.com/ik-awais.png?size=200" 
-       width="150" 
-       style="border-radius:50%;"/>
-</a>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Apps;NLP+%7C+Computer+Vision+%7C+GenAI;Turning+Research+into+Production+AI)](https://git.io/typing-svg)
-
-<br/>
+*Building intelligent systems, automation pipelines, and applied AI solutions.*
+*Specializing in Gen AI · Agentic AI · NLP · Computer Vision*
 
 <a href="https://www.linkedin.com/in/muhammad-awais-ai-engineer/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -32,7 +24,7 @@
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ik-awais&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
@@ -40,7 +32,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class AIEngineer:
@@ -142,6 +134,8 @@ me.say_hi()
 
 <div align="center">
 
-![footer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=99999&color=00D4FF&center=true&vCenter=true&width=500&height=40&lines=Open+to+Collaboration+%7C+mawaisqq%40gmail.com)
+*Open to collaboration on AI/ML projects, agentic systems, and applied research.*
+
+**[View my portfolio →](https://ik-awais.github.io)**
 
 </div>
