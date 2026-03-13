@@ -1,13 +1,23 @@
 <div align="center">
 
+<<<<<<< HEAD
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060610,50:7c3aed,100:00d4ff&height=200&section=header&text=Muhammad%20Awais&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%26%20Developer&descAlignY=58&descSize=20&descColor=00d4ff&animation=fadeIn" width="100%"/>
+=======
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=99999&color=FFFFFF&background=06061000&center=true&vCenter=true&width=800&height=80&lines=Muhammad+Awais" alt="Muhammad Awais"/>
+>>>>>>> a2a69f0 (Fixed png files of README.md file)
 
 <br/>
 
 <a href="https://ik-awais.github.io" target="_blank">
+<<<<<<< HEAD
   <img src="https://raw.githubusercontent.com/ik-awais/ik-awais/main/avatar.png" 
        width="150" 
        style="border-radius:50%; border: 3px solid #00d4ff; box-shadow: 0 0 20px #7c3aed;"/>
+=======
+  <img src="https://github.com/ik-awais.png?size=200" 
+       width="150" 
+       style="border-radius:50%;"/>
+>>>>>>> a2a69f0 (Fixed png files of README.md file)
 </a>
 
 <br/>
@@ -142,6 +152,10 @@ me.say_hi()
 
 <div align="center">
 
+<<<<<<< HEAD
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:060610&height=120&section=footer&text=Open%20to%20Collaboration&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+=======
+![footer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=99999&color=00D4FF&center=true&vCenter=true&width=500&height=40&lines=Open+to+Collaboration+%7C+mawaisqq%40gmail.com)
+>>>>>>> a2a69f0 (Fixed png files of README.md file)
 
 </div>
