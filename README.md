@@ -115,9 +115,8 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ik-awais&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060610&title_color=00d4ff&icon_color=7c3aed&text_color=e8e8f0&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ik-awais&layout=compact&theme=tokyonight&hide_border=true&bg_color=060610&title_color=00d4ff&text_color=e8e8f0&langs_count=8" height="180"/>
-
+<img src="https://github-readme-stats-two-jade-68.vercel.app/api?username=ik-awais&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060610&title_color=00d4ff&icon_color=7c3aed&text_color=e8e8f0&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats-two-jade-68.vercel.app/api/top-langs/?username=ik-awais&layout=compact&theme=tokyonight&hide_border=true&bg_color=060610&title_color=00d4ff&text_color=e8e8f0&langs_count=8" height="180"/>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ik-awais&theme=tokyonight&hide_border=true&background=060610&stroke=7c3aed&ring=00d4ff&fire=06bb7a&currStreakLabel=00d4ff&sideLabels=e8e8f0&dates=b0b0c8" width="70%"/>
