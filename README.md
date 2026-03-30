@@ -59,6 +59,7 @@ me.say_hi()
 
 | 🤖 Project | 📋 Description | 🛠 Stack |
 |:-----------|:--------------|:---------|
+| [**MediScan AI**](https://github.com/ik-awais/Python_Projects/tree/main/PAI/Mediscan) | End-to-end medical image analysis pipeline — classifies X-rays with a fine-tuned ViT, detects anomalies, and auto-generates structured radiology reports | `PyTorch` `HuggingFace` `OpenCV` `LLaMA 3.1` `FastAPI` |
 | [**AI Research Assistant Agent**](https://github.com/ik-awais/ai-research-agent) | Multi-step agentic system for automated research synthesis and summarization | `LangChain` `OpenAI` `Python` |
 | [**Document Q&A System**](https://github.com/ik-awais/doc-qa-system) | RAG-based system for intelligent document querying and precise answer extraction | `LangChain` `FAISS` `Python` |
 
