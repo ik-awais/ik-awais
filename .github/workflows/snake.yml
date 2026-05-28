@@ -14,6 +14,7 @@ name: Generate & Deploy Snake
 runs-on: ubuntu-latest
 timeout-minutes: 10
 
+```
 steps:
   - name: 📥 Checkout Repository
     uses: actions/checkout@v4
@@ -35,3 +36,4 @@ steps:
       keep_history: false
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
