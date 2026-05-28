@@ -1,37 +1,33 @@
 name: Generate Snake Animation
-
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
-
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 permissions:
-contents: write
-
+  contents: write
 jobs:
-generate:
-name: Generate & Deploy Snake
-runs-on: ubuntu-latest
-timeout-minutes: 10
-
-steps:
-  - name: 📥 Checkout Repository
-    uses: actions/checkout@v4
-
-  - name: 🐍 Generate Snake SVG
-    uses: Platane/snk@v3
-    with:
-      github_user_name: ik-awais
-      outputs: |
-        dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%239B59FF&color_dots=%23060610,%2300aae6,%2300d4ff,%237c3aed,%239B59FF
-        dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%239B59FF&color_dots=%23ebedf0,%2300aae6,%2300d4ff,%237c3aed,%239B59FF
-
-  - name: 🚀 Deploy to Output Branch
-    uses: crazy-max/ghaction-github-pages@v4
-    with:
-      target_branch: output
-      build_dir: dist
-      commit_message: "chore: update contribution snake animation"
-      keep_history: false
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  generate:
+    name: Generate & Deploy Snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+      - name: 🐍 Generate Snake SVG (Cyberpunk Edition)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ik-awais
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%239B59FF&color_dots=%23060610,%237c3aed,%239B59FF,%2300aae6,%2300d4ff
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%239B59FF&color_dots=%23ebedf0,%237c3aed,%239B59FF,%2300aae6,%2300d4ff
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 🚀 Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update cyberpunk contribution snake animation"
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
