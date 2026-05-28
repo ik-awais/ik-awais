@@ -49,8 +49,6 @@ open_to:
   - Research-oriented AI engineering
   - Agentic AI consulting
 
-not_open_to:
-  - Entry-level AI roles
 ```
 
 <div align="center">
