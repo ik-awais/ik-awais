@@ -22,6 +22,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ik-awais&style=flat-square&color=00D4FF&label=Profile+Views&abbreviated=true)
 
 </div>
+
+> *"The measure of intelligence is the ability to change."* — Albert Einstein
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2500&pause=800&color=9B59FF&center=true&vCenter=true&width=720&height=24&lines=%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0" alt="divider" />
 
 </div>
@@ -148,7 +151,7 @@ not_open_to:
 
 <br/>
 
-> *"The measure of intelligence is the ability to change."* — Albert Einstein
+
 
 **[ik-awais.github.io](https://ik-awais.github.io)** &nbsp;·&nbsp; **[m.awais@aigenmat.com](mailto:m.awais@aigenmat.com)**
 
