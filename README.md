@@ -10,7 +10,7 @@
 
 <br/>
 
-> *"Building systems that don't just process data — they understand it."*
+> *"The measure of intelligence is the ability to change."* — Albert Einstein
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 </div>
 
----
+<br/>
 
 ## About Me
 
@@ -60,7 +60,7 @@ me = AIEngineer()
 me.say_hi()
 ```
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -74,7 +74,7 @@ me.say_hi()
 
 </div>
 
----
+<br/>
 
 ## ⚡ Tech Stack
 
@@ -118,7 +118,7 @@ me.say_hi()
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -133,19 +133,28 @@ me.say_hi()
       <img src="https://github-readme-stats-two-jade-68.vercel.app/api/top-langs/?username=ik-awais&layout=compact&theme=tokyonight&hide_border=true&bg_color=060610&title_color=00d4ff&text_color=e8e8f0&langs_count=8&card_width=400" height="180"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ik-awais&theme=tokyonight&hide_border=true&background=060610&stroke=7c3aed&ring=00d4ff&fire=06bb7a&currStreakLabel=00d4ff&sideLabels=e8e8f0&dates=b0b0c8" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ik-awais&bg_color=060610&color=00d4ff&line=7c3aed&point=06bb7a&area=true&hide_border=true" width="100%"/>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ik-awais/ik-awais/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ik-awais/ik-awais/output/github-contribution-grid-snake.svg" />
+        <img alt="Snake animation" src="https://raw.githubusercontent.com/ik-awais/ik-awais/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+      </picture>
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ik-awais&theme=tokyonight&hide_border=true&background=060610&stroke=7c3aed&ring=00d4ff&fire=06bb7a&currStreakLabel=00d4ff&sideLabels=e8e8f0&dates=b0b0c8" width="70%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ik-awais&bg_color=060610&color=00d4ff&line=7c3aed&point=06bb7a&area=true&hide_border=true" width="100%"/>
 
 </div>
 
----
+<br/>
 
 ## 🏆 Trophies
 
@@ -155,21 +164,7 @@ me.say_hi()
 
 </div>
 
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ik-awais/ik-awais/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ik-awais/ik-awais/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ik-awais/ik-awais/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
+<br/>
 
 <div align="center">
 
