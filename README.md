@@ -1,3 +1,5 @@
+<!-- Muhammad Awais | BS Artificial Intelligence | FAST-NUCES Peshawar | AI GenMat | Python | C++ | Artificial Intelligence | Machine Learning | Portfolio | AI Engineer | Agentic AI | LLM | RAG | NLP | Computer Vision | Multi-Agent Systems | ik-awais.github.io -->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2500&pause=800&color=9B59FF&center=true&vCenter=true&width=720&height=24&lines=%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0" alt="divider" />
@@ -35,7 +37,7 @@
 name:       Muhammad Awais
 role:       AI Engineer · Managing Director @ AI GenMat
 location:   Islamabad, Pakistan
-education:  BS Artificial Intelligence — FAST NUCES (2025–2029)
+education:  BS Artificial Intelligence — FAST-NUCES Peshawar (2025–2029)
 
 focus:
   - Agentic AI & Multi-Agent Systems
@@ -43,12 +45,19 @@ focus:
   - NLP & Computer Vision
   - GenAI & AI Automation
 
+languages:
+  - Python
+  - C++
+  - C
+  - Bash
+
 open_to:
   - High-impact AI collaborations
   - Freelance AI systems & infrastructure
   - Research-oriented AI engineering
   - Agentic AI consulting
 
+portfolio:  https://ik-awais.github.io
 ```
 
 <div align="center">
@@ -148,8 +157,6 @@ open_to:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2500&pause=800&color=9B59FF&center=true&vCenter=true&width=720&height=24&lines=%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0+%E2%96%B0" alt="divider" />
 
 <br/>
-
-
 
 **[ik-awais.github.io](https://ik-awais.github.io)** &nbsp;·&nbsp; **[m.awais@aigenmat.com](mailto:m.awais@aigenmat.com)**
 
