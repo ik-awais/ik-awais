@@ -113,14 +113,78 @@ portfolio:  https://ik-awais.github.io
 
 <div align="center">
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**MediScan AI**](https://github.com/ik-awais/Python_Projects/tree/main/PAI/Mediscan) | End-to-end medical image analysis pipeline — fine-tuned ViT for X-ray classification, anomaly detection, and automated radiology report generation | `PyTorch` `HuggingFace` `OpenCV` `FastAPI` |
-| [**AI Research Assistant**](https://github.com/ik-awais) | Multi-step agentic workflow for automated research synthesis, retrieval, and structured summarization | `LangChain` `LlamaIndex` `Python` |
-| [**Document Q&A System**](https://github.com/ik-awais) | RAG-based intelligent document querying with precise context-aware answer extraction | `LangChain` `FAISS` `FastAPI` `Python` |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=1400&color=9d6fff&center=true&vCenter=true&width=780&height=26&lines=Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Systems+%7C+AI+Tools;Real+projects+across+Python_Projects+%26+Projects+repositories" alt="Projects Tagline"/>
 
 </div>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### <a href="https://github.com/ik-awais/Projects/tree/main/Programming%20for%20AI/NovaMind%20AI">🔭 NovaMind AI</a>
+
+Full-stack AI research engine — multi-provider web search (Tavily · Brave · Firecrawl), `pgvector` RAG over personal documents, streaming answers with citations, JWT auth, and a real-time Next.js frontend. Fully containerised with Docker Compose.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[![Source](https://img.shields.io/badge/Source-Projects/NovaMind_AI-00c8ff?style=flat-square&logo=github&logoColor=white)](https://github.com/ik-awais/Projects/tree/main/Programming%20for%20AI/NovaMind%20AI)
+
+</td>
+    <td width="50%" valign="top">
+
+### <a href="https://github.com/ik-awais/Python_Projects/tree/main/PAI/LectureLens">📚 LectureLens</a>
+
+Production-grade RAG study assistant — upload PDF · DOCX · PPTX lecture slides, query in plain English, get page-level cited answers via hybrid dense vector + FTS5 keyword search. Non-blocking `ThreadPoolExecutor` indexing; SHA-256 dedup; session-aware chat history.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
+![SQLite FTS5](https://img.shields.io/badge/SQLite-FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/LLaMA_3.3_70B-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/BAAI_bge--small-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+[![Source](https://img.shields.io/badge/Source-Python_Projects/LectureLens-00c8ff?style=flat-square&logo=github&logoColor=white)](https://github.com/ik-awais/Python_Projects/tree/main/PAI/LectureLens)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### <a href="https://github.com/ik-awais/Projects/tree/main/Programming%20for%20AI/Solace%20AI">🌙 Solace AI</a>
+
+Emotionally intelligent AI companion — real-time VADER emotion detection, a Three.js 3D morphing orb that reacts to your mood, cultural empathy for PK · IN · AE · US · GB regions, persistent SQLite memory, and dual-provider AI (Gemini 1.5 Pro + NVIDIA NIM).
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_1.5_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![VADER](https://img.shields.io/badge/VADER-NLP-9d6fff?style=flat-square&logo=python&logoColor=white)
+
+[![Source](https://img.shields.io/badge/Source-Projects/Solace_AI-00c8ff?style=flat-square&logo=github&logoColor=white)](https://github.com/ik-awais/Projects/tree/main/Programming%20for%20AI/Solace%20AI)
+
+</td>
+    <td width="50%" valign="top">
+
+### <a href="https://github.com/ik-awais/Python_Projects/tree/main/Tools/file_workshop">🗂️ File Workshop AI</a>
+
+Multimodal desktop toolkit — convert, split, merge, protect, and watermark files across PDF · DOCX · XLSX · PPTX · CSV · images · audio · video, with a built-in Gemini AI assistant for document Q&A and an NVIDIA-powered image upscaler. No cloud required.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-AI_Assistant-4285F4?style=flat-square&logo=google&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-NIM_Upscaler-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-UI-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Desktop](https://img.shields.io/badge/Desktop-App-9d6fff?style=flat-square&logo=windows&logoColor=white)
+
+[![Source](https://img.shields.io/badge/Source-Python_Projects/file_workshop-00c8ff?style=flat-square&logo=github&logoColor=white)](https://github.com/ik-awais/Python_Projects/tree/main/Tools/file_workshop)
+
+</td>
+  </tr>
+</table>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
