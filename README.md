@@ -21,7 +21,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ik-awais&style=flat-square&color=00C8FF&label=Profile+Views&abbreviated=true)
 
-> *"The measure of intelligence is the ability to change."* — Albert Einstein
+> *"The measure of intelligence is the ability to change."* ~ Albert Einstein
 
 </div>
 
