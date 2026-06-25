@@ -62,105 +62,80 @@ portfolio:  https://ik-awais.github.io
 
 ![](https://img.shields.io/badge/-AI%20%26%20ML%20Core-03001e?style=for-the-badge)
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn&theme=dark" />
+</a>
 
-<br/>
+<br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" title="NumPy"/>
+&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas"/>
+&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" title="Matplotlib"/>
+&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" title="Jupyter"/>
+
+<br/><br/>
 
 ![](https://img.shields.io/badge/-LLM%20%26%20RAG%20Stack-03001e?style=for-the-badge)
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=huggingface,fastapi,postgres,mongodb&theme=dark" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=huggingface,postgres&theme=dark" />
+</a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LlamaIndex-9D6FFF?style=flat-square&logo=python&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/SentenceTransformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28"/>
-<img src="https://img.shields.io/badge/BAAI%2Fbge--small-00C8FF?style=flat-square&logo=huggingface&logoColor=black" height="28"/>
-<img src="https://img.shields.io/badge/VADER-NLP-9D6FFF?style=flat-square&logo=python&logoColor=white" height="28"/>
+<br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" width="48" height="48" title="LangChain"/>
+&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex.png" width="48" height="48" title="LlamaIndex"/>
+&nbsp;<img src="https://avatars.githubusercontent.com/u/107524900?s=200&v=4" width="48" height="48" title="ChromaDB" style="border-radius:10px"/>
+&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" title="SQLite"/>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/-LLM%20Providers-03001e?style=for-the-badge)
+![](https://img.shields.io/badge/-LLM%20Providers%20%26%20APIs-03001e?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LLaMA%203.3%2070B-76B900?style=flat-square&logo=meta&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Anthropic%20Claude-4a0e8f?style=flat-square&logo=anthropic&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Tavily-00C8FF?style=flat-square&logo=searchengin&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Brave%20Search-FB542B?style=flat-square&logo=brave&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Firecrawl-FF4500?style=flat-square&logo=fireship&logoColor=white" height="28"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/-Data%20Science%20%26%20Analysis-03001e?style=for-the-badge)
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="48" height="48" title="Google Gemini"/>
+&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/nvidia.png" width="48" height="48" title="NVIDIA NIM"/>
+&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="48" height="48" title="OpenAI"/>
+&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" width="48" height="48" title="Anthropic Claude"/>
+&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/meta.png" width="48" height="48" title="Meta LLaMA"/>
 
 <br/><br/>
 
 ![](https://img.shields.io/badge/-Backend%20%26%20APIs-03001e?style=for-the-badge)
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite,postgres&theme=dark" /></a>
-
-<img src="https://img.shields.io/badge/SQLite%20FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/SSE%20Streaming-9D6FFF?style=flat-square&logo=python&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/pyperclip-3776AB?style=flat-square&logo=python&logoColor=white" height="28"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,mysql,firebase&theme=dark" />
+</a>
 
 <br/><br/>
 
 ![](https://img.shields.io/badge/-Frontend%20%26%20Visualization-03001e?style=for-the-badge)
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,typescript,html,css&theme=dark" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript,html,css,threejs&theme=dark" />
+</a>
 
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/HTML5%20Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28"/>
+<br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" width="48" height="48" title="Hugo"/>
+&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio.png" width="48" height="48" title="Gradio"/>
 
 <br/><br/>
 
 ![](https://img.shields.io/badge/-DevOps%20%26%20Infrastructure-03001e?style=for-the-badge)
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,git,aws&theme=dark" /></a>
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" height="28"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,aws,githubactions&theme=dark" />
+</a>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/-Databases%20%26%20Storage-03001e?style=for-the-badge)
+![](https://img.shields.io/badge/-Automation%20%26%20Testing-03001e?style=for-the-badge)
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres&theme=dark" /></a>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="28"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
+</a>
 
 <br/><br/>
 
 ![](https://img.shields.io/badge/-Languages-03001e?style=for-the-badge)
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,c,bash&theme=dark" /></a>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/-Hardware%20%26%20Simulation-03001e?style=for-the-badge)
-
-<img src="https://img.shields.io/badge/NI%20Multisim-FFD700?style=flat-square&logo=ni&logoColor=black" height="28"/>
-<img src="https://img.shields.io/badge/Digital%20Logic%20Design-9D6FFF?style=flat-square&logo=circuitverse&logoColor=white" height="28"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,typescript,javascript&theme=dark" />
+</a>
 
 </div>
 
