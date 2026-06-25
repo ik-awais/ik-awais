@@ -75,11 +75,7 @@ portfolio:  https://ik-awais.github.io
 
 ![](https://img.shields.io/badge/-LLM%20%26%20RAG%20Stack-03001e?style=for-the-badge)
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=huggingface,postgres&theme=dark" />
-</a>
-
-<br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" width="48" height="48" title="LangChain"/>
+<img src="https://skillicons.dev/icons?i=huggingface,postgres&theme=dark" />
 &nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex.png" width="48" height="48" title="LlamaIndex"/>
 &nbsp;<img src="https://avatars.githubusercontent.com/u/107524900?s=200&v=4" width="48" height="48" title="ChromaDB" style="border-radius:10px"/>
 &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" title="SQLite"/>
@@ -90,7 +86,6 @@ portfolio:  https://ik-awais.github.io
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="48" height="48" title="Google Gemini"/>
 &nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/nvidia.png" width="48" height="48" title="NVIDIA NIM"/>
-&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="48" height="48" title="OpenAI"/>
 &nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" width="48" height="48" title="Anthropic Claude"/>
 &nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/meta.png" width="48" height="48" title="Meta LLaMA"/>
 
@@ -110,7 +105,7 @@ portfolio:  https://ik-awais.github.io
   <img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript,html,css,threejs&theme=dark" />
 </a>
 
-<br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" width="48" height="48" title="Hugo"/>
+<br/><img src="https://cdn.simpleicons.org/hugo/white" width="48" height="48" title="Hugo"/>
 &nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio.png" width="48" height="48" title="Gradio"/>
 
 <br/><br/>
@@ -118,15 +113,7 @@ portfolio:  https://ik-awais.github.io
 ![](https://img.shields.io/badge/-DevOps%20%26%20Infrastructure-03001e?style=for-the-badge)
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,aws,githubactions&theme=dark" />
-</a>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/-Automation%20%26%20Testing-03001e?style=for-the-badge)
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,aws,githubactions,selenium&theme=dark" />
 </a>
 
 <br/><br/>
