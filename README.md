@@ -40,7 +40,7 @@ focus:
   - Agentic AI and multi-agent systems
   - LLM fine-tuning and RAG pipelines
   - NLP and computer vision
-  - GenAI automation
+  - GenAI & Automation
 
 languages:
   - Python
