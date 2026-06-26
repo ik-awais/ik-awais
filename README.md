@@ -55,6 +55,20 @@ open to:
 
 portfolio:  https://ik-awais.github.io
 ```
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Language stats
+
+<div align="center">
+
+<!-- Live synced, pulls directly from the Duolingo API -->
+<img src="https://duolingo-stats-card.vercel.app/api?username=MUHAMMADAW597351&theme=dark" alt="Duolingo Stats — MUHAMMADAW597351" />
+
+<br/><br/>
+
+![Duolingo English Test](https://img.shields.io/badge/Duolingo%20English%20Test-130%20%2F%20130%20%28Max%20Score%29-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+![Language](https://img.shields.io/badge/Language-English-1CB0F6?style=for-the-badge&logo=duolingo&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live%20Synced-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tools I actually use
 
@@ -207,21 +221,6 @@ A desktop toolkit for everything file related. Convert, split, merge, protect, a
 <img src="https://streak-stats.demolab.com/?user=ik-awais&theme=tokyonight&hide_border=true&background=03001e&stroke=4a0e8f&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff&sideLabels=e8e8f0&dates=9d6fff" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ik-awais&bg_color=03001e&color=00c8ff&line=4a0e8f&point=9d6fff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Language stats
-
-<div align="center">
-
-<!-- Live synced, pulls directly from the Duolingo API -->
-<img src="https://duolingo-stats-card.vercel.app/api?username=MUHAMMADAW597351&theme=dark" alt="Duolingo Stats — MUHAMMADAW597351" />
-
-<br/><br/>
-
-![Duolingo English Test](https://img.shields.io/badge/Duolingo%20English%20Test-130%20%2F%20130%20%28Max%20Score%29-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
-![Language](https://img.shields.io/badge/Language-English-1CB0F6?style=for-the-badge&logo=duolingo&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live%20Synced-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
 
 </div>
 
