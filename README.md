@@ -34,7 +34,7 @@ name:       Muhammad Awais
 role:       AI Engineer, Managing Director @ AI GenMat
 location:   Islamabad, Pakistan
 education:  BS Artificial Intelligence, FAST-NUCES Peshawar (2025-2029)
-contact: m.awais@aigenmat.com | mawaisqq@gmail.com
+contact:    m.awais@aigenmat.com | mawaisqq@gmail.com
 
 focus:
   - Agentic AI and multi-agent systems
