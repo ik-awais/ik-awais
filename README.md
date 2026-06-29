@@ -27,13 +27,13 @@
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> A bit about me
 
-I'm an AI engineer based in Islamabad, currently running AI GenMat as Managing Director while finishing my BS in Artificial Intelligence at FAST-NUCES Peshawar (2025 to 2029). Most of my work sits in agentic AI, RAG pipelines, NLP, and computer vision, basically anything where an LLM needs to actually do something useful instead of just chat.
+I'm an AI engineer based in Islamabad, currently running AI GenMat as Managing Director while finishing my BS in Artificial Intelligence at FAST-NUCES (2025 to 2029). Most of my work sits in agentic AI, RAG pipelines, NLP, and computer vision, basically anything where an LLM needs to actually do something useful instead of just chat.
 
 ```yaml
 name:       Muhammad Awais
 role:       AI Engineer, Managing Director @ AI GenMat
 location:   Islamabad, Pakistan
-education:  BS Artificial Intelligence, FAST-NUCES Peshawar (2025-2029)
+education:  BS Artificial Intelligence, FAST-NUCES (2025-2029)
 contact:    m.awais@aigenmat.com | mawaisqq@gmail.com
 
 focus:
