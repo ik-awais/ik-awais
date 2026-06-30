@@ -1,4 +1,4 @@
-<!-- Muhammad Awais | AI Engineer | Managing Director @ AI GenMat | Agentic AI Systems | LLM Fine-tuning | RAG Pipelines | NLP | Computer Vision | Multi-Agent Systems | GenAI Automation | AI Infrastructure | BS Artificial Intelligence | FAST NUCES Peshawar | Python | C++ | PyTorch | HuggingFace | LangChain | LlamaIndex | FastAPI | Docker | AWS | ik-awais.github.io | aigenmat.com -->
+<!-- Muhammad Awais | AI Engineer | Managing Director @ AI GenMat | Agentic AI Systems | LLM Fine-tuning | RAG Pipelines | NLP | Computer Vision | Multi-Agent Systems | GenAI Automation | AI Infrastructure | BS Artificial Intelligence @ FAST NUCES | Python | C++ | PyTorch | HuggingFace | LangChain | LlamaIndex | FastAPI | Docker | AWS | ik-awais.github.io | aigenmat.com -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001e,35:0b0630,65:1a0845,100:4a0e8f&height=200&section=header&text=Muhammad%20Awais&fontSize=52&fontColor=00c8ff&fontAlignY=45&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20LLM%20%7C%20RAG&descSize=16&descAlignY=68&descColor=9d6fff&animation=fadeIn&stroke=4a0e8f&strokeWidth=1" width="100%"/>
 
