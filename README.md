@@ -1,10 +1,10 @@
-<!-- Muhammad Awais | AI Engineer | Managing Director @ AI GenMat | Agentic AI Systems | LLM Fine-tuning | RAG Pipelines | NLP | Computer Vision | Multi-Agent Systems | GenAI Automation | AI Infrastructure | BS Artificial Intelligence @ FAST NUCES | Python | C++ | PyTorch | HuggingFace | LangChain | LlamaIndex | FastAPI | Docker | AWS | ik-awais.github.io | aigenmat.com -->
+<!-- Muhammad Awais | AI Engineer | Managing Director @ AI GenMat | Agentic AI Systems | LLM Fine-tuning | RAG Pipelines | NLP | Computer Vision | Multi-Agent Systems | GenAI Automation | AI Infrastructure | BS Artificial Intelligence | FAST NUCES | Python | C++ | PyTorch | HuggingFace | LangChain | LlamaIndex | FastAPI | Docker | AWS | ik-awais.github.io | aigenmat.com -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001e,35:0b0630,65:1a0845,100:4a0e8f&height=200&section=header&text=Muhammad%20Awais&fontSize=52&fontColor=00c8ff&fontAlignY=45&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20LLM%20%7C%20RAG&descSize=16&descAlignY=68&descColor=9d6fff&animation=fadeIn&stroke=4a0e8f&strokeWidth=1" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=9d6fff&center=true&vCenter=true&width=720&height=36&lines=AI+Engineer+%7C+Managing+Director+%40+AI+GenMat;Agentic+AI+%7C+LLM+Fine-tuning+%7C+RAG+Pipelines;NLP+%7C+Computer+Vision+%7C+Multi-Agent+Systems;BS+Artificial+Intelligence+%E2%80%94+FAST+NUCES+Peshawar" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=9d6fff&center=true&vCenter=true&width=720&height=36&lines=AI+Engineer+%7C+Managing+Director+%40+AI+GenMat;Agentic+AI+%7C+LLM+Fine-tuning+%7C+RAG+Pipelines;NLP+%7C+Computer+Vision+%7C+Multi-Agent+Systems;BS+Artificial+Intelligence+|+FAST+NUCES+Peshawar" alt="Roles" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3200&pause=1200&color=00C8FF&center=true&vCenter=true&width=720&height=30&lines=AI+GenMat+|+Building+the+Future+with+AI;Agentic+Workflows+%7C+LLM+Infrastructure+%7C+AI+Automation;GenAI+%7C+Vector+Databases+%7C+Embeddings+%7C+Fine-tuning;AI+GenMat+%7C+Smart+Solutions+for+a+Digital+World" alt="AI GenMat" />
 
