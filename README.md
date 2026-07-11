@@ -4,6 +4,10 @@
 
 <img src="https://raw.githubusercontent.com/ik-awais/ik-awais/main/assets/ascii-header.svg" width="100%" alt="Muhammad Awais ASCII Portrait"/>
 
+# Muhammad Awais
+
+### AI Engineer | Agentic AI | LLM | RAG
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=9d6fff&center=true&vCenter=true&width=720&height=36&lines=AI+Engineer+%7C+Managing+Director+%40+AI+GenMat;Agentic+AI+%7C+LLM+Fine-tuning+%7C+RAG+Pipelines;NLP+%7C+Computer+Vision+%7C+Multi-Agent+Systems;Bachelors+of+Artifical+Intelligence;National+University+of+Computer+and+Emerging+Sciences" alt="Roles" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3200&pause=1200&color=00C8FF&center=true&vCenter=true&width=720&height=30&lines=AI+GenMat+|+Building+the+Future+with+AI;Agentic+Workflows+%7C+LLM+Infrastructure+%7C+AI+Automation;GenAI+%7C+Vector+Databases+%7C+Embeddings+%7C+Fine-tuning;AI+GenMat+%7C+Smart+Solutions+for+a+Digital+World" alt="AI GenMat" />
