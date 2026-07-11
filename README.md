@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ik-awais/ik-awais/main/assets/ascii-hero.png" width="380" alt="Muhammad Awais ASCII Portrait"/>
+<img src="https://raw.githubusercontent.com/ik-awais/ik-awais/main/assets/ascii-header.svg" width="100%" alt="Muhammad Awais ASCII Portrait"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=9d6fff&center=true&vCenter=true&width=720&height=36&lines=AI+Engineer+%7C+Managing+Director+%40+AI+GenMat;Agentic+AI+%7C+LLM+Fine-tuning+%7C+RAG+Pipelines;NLP+%7C+Computer+Vision+%7C+Multi-Agent+Systems;Bachelors+of+Artifical+Intelligence;National+University+of+Computer+and+Emerging+Sciences" alt="Roles" />
 
