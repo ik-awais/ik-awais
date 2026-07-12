@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ik-awais/ik-awais/main/assets/ascii-header.svg" width="100%" alt="Muhammad Awais ASCII Portrait"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=100000&color=00C8FF&center=true&vCenter=true&width=500&height=60&lines=Muhammad+Awais&repeat=false" alt="Muhammad Awais"/>
 
 <br/>
