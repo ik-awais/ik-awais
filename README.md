@@ -215,7 +215,7 @@ A desktop toolkit for everything file related. Convert, split, merge, protect, a
 
 <div align="center">
 
-<img src="https://github-readme-stats-two-jade-68.vercel.app/api?username=ik-awais&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03001e&title_color=00c8ff&icon_color=9d6fff&text_color=e8e8f0&rank_icon=github&card_width=480&v=1" width="49%"/>
+<img src="https://github-readme-stats-two-jade-68.vercel.app/api?username=ik-awais&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03001e&title_color=00c8ff&icon_color=9d6fff&text_color=e8e8f0&rank_icon=github&card_width=480&v=2" width="49%"/>
 <img src="https://github-readme-stats-two-jade-68.vercel.app/api/top-langs/?username=ik-awais&layout=compact&theme=tokyonight&hide_border=true&bg_color=03001e&title_color=00c8ff&text_color=e8e8f0&langs_count=8&card_width=480" width="49%"/>
 
 <img src="https://streak-stats.demolab.com/?user=ik-awais&theme=tokyonight&hide_border=true&background=03001e&stroke=4a0e8f&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff&sideLabels=e8e8f0&dates=9d6fff&v=1" width="100%"/>
