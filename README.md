@@ -2,12 +2,13 @@
 
 <div align="center">
 
-<img
-  src="./assets/Gemini_Generated_Image_c11fb9c11fb9c11f-clean.png"
-  alt="Muhammad Awais — AI Engineer | Agentic AI | LLM Infrastructure | RAG Pipelines"
-  width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,50:4a0e8f,100:03001e&height=150&section=header&text=Muhammad%20Awais&fontSize=42&fontColor=00c8ff&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20Managing%20Director%20%40%20AI%20GenMat&descAlignY=62&descSize=16&descColor=9d6fff" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00C8FF&center=true&vCenter=true&width=750&height=45&lines=Building+Agentic+AI+Systems;RAG+Pipelines+%2B+LLM+Fine-tuning;NLP+%2B+Computer+Vision;GenAI+Automation+%2B+AI+Infrastructure" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-awais-ai-engineer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-03001e?style=for-the-badge&logo=githubpages&logoColor=00c8ff)](https://ik-awais.github.io)
