@@ -33,7 +33,8 @@ I'm an AI engineer based in Islamabad, currently running AI GenMat as Managing D
 name:       Muhammad Awais
 role:       AI Engineer, Managing Director @ AI GenMat
 location:   Islamabad, Pakistan
-education:  BS Artificial Intelligence, FAST-NUCES (2025-2029)
+education: BS Software Engineering, FAST-NUCES Islamabad (2026-2030)
+education:  BS Artificial Intelligence, FAST-NUCES (2025-2026)
 contact:    m.awais@aigenmat.com | mawaisqq@gmail.com
 
 focus:
