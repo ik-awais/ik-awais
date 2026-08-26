@@ -222,7 +222,7 @@ A desktop toolkit for everything file related. Convert, split, merge, protect, a
 
 <img src="https://streak-stats.demolab.com/?user=ik-awais&theme=tokyonight&hide_border=true&background=03001e&stroke=4a0e8f&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff&sideLabels=e8e8f0&dates=9d6fff&v=2" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ik-awais&bg_color=03001e&color=00c8ff&line=4a0e8f&point=9d6fff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ik-awais&bg_color=03001e&color=00c8ff&line=4a0e8f&point=9d6fff&area=true&hide_border=true&v=1" width="100%"/>
 
 </div>
 
