@@ -62,7 +62,7 @@ portfolio:  https://ik-awais.github.io
 <div align="center">
 
 <!-- Live synced, pulls directly from the Duolingo API -->
-<img src="https://duolingo-stats-card.vercel.app/api?username=MUHAMMADAW597351&theme=dark" alt="Duolingo Stats — MUHAMMADAW597351" />
+<img src="https://duolingo-stats-card.vercel.app/api?username=IK-AWAIS&theme=dark" alt="Duolingo Stats — MUHAMMADAW597351" />
 
 <br/><br/>
 
