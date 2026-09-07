@@ -134,11 +134,7 @@ portfolio:  https://ik-awais.github.io
 
 <img src="https://streak-stats.demolab.com/?user=ik-awais&theme=dark&hide_border=true&background=061A14&stroke=006B3C&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=F8FAFC&dates=7DD3FC" width="65%" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ik-awais&bg_color=061A14&color=38BDF8&line=006B3C&point=7DD3FC&area=true&hide_border=true" width="90%" />
-
-</div>
+<br>
 
 <br>
 
@@ -146,7 +142,7 @@ portfolio:  https://ik-awais.github.io
 
 <div align="center">
 
-<img src="https://duolingo-stats-card.vercel.app/api?username=MUHAMMADAW597351&theme=dark" />
+<img src="https://duolingo-stats-card.vercel.app/api?username=IK-AWAIS&theme=dark" />
 
 <br>
 
