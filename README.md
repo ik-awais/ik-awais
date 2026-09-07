@@ -1,244 +1,179 @@
-<!-- Muhammad Awais | AI Engineer | Operations Associate & Ex-Managing Director @ AI GenMat | Agentic AI Systems | LLM Fine-tuning | RAG Pipelines | NLP | Computer Vision | Multi-Agent Systems | GenAI Automation | AI Infrastructure | BS Artificial Intelligence | BS Software Engineering | FAST NUCES | Python | C++ | PyTorch | HuggingFace | LangChain | LlamaIndex | FastAPI | Docker | AWS | ik-awais.github.io | aigenmat.com -->
- 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,50:4a0e8f,100:03001e&height=150&section=header&text=Muhammad%20Awais&fontSize=42&fontColor=00c8ff&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20Managing%20Director%20%40%20AI%20GenMat&descAlignY=62&descSize=16&descColor=9d6fff" width="100%"/>
+<img src="./assets/terminal-header.svg" width="100%" alt="Muhammad Awais"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00C8FF&center=true&vCenter=true&width=750&height=45&lines=Building+Agentic+AI+Systems;RAG+Pipelines+%2B+LLM+Fine-tuning;NLP+%2B+Computer+Vision;GenAI+Automation+%2B+AI+Infrastructure" />
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=36&lines=AI+Developer;Operations+Associate+%40+AI+GenMat;Ex-Managing+Director+%40+AI+GenMat;BS+Software+Engineering+%40+FAST-NUCES+Islamabad" alt="Roles" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3200&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&height=30&lines=AI+GenMat+-+Building+the+Future+with+AI;Agentic+Workflows+%7C+LLM+Infrastructure+%7C+AI+Automation;GenAI+%7C+Vector+Databases+%7C+Embeddings+%7C+Fine-tuning;AI+GenMat+%7C+Smart+Solutions+for+a+Digital+World" alt="AI GenMat" /></a>
 
-<br/><br/>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-awais-ai-engineer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-03001e?style=for-the-badge&logo=githubpages&logoColor=00c8ff)](https://ik-awais.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-01411C?style=for-the-badge&logo=githubpages&logoColor=38BDF8)](https://ik-awais.github.io)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~018a2d0e2f88ac4838)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mawaisqq@gmail.com)
-[![Work Mail](https://img.shields.io/badge/Work_Mail-4a0e8f?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:m.awais@aigenmat.com)
+[![Work Mail](https://img.shields.io/badge/Work_Mail-006B3C?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:m.awais@aigenmat.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ik_.awais)
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=ik-awais&style=flat-square&color=38BDF8&label=Profile+Views&abbreviated=true" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ik-awais&style=flat-square&color=00C8FF&label=Profile+Views&abbreviated=true)
+> *"The measure of intelligence is the ability to change."* - Albert Einstein
 
-> *"The measure of intelligence is the ability to change."* ~ Albert Einstein
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> A bit about me
-
-I'm an AI engineer based in Islamabad, currently running AI GenMat as Managing Director while finishing my BS in Artificial Intelligence at FAST-NUCES (2025 to 2029). Most of my work sits in agentic AI, RAG pipelines, NLP, and computer vision, basically anything where an LLM needs to actually do something useful instead of just chat.
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;About
 
 ```yaml
 name:       Muhammad Awais
-role:       AI Engineer, Managing Director @ AI GenMat
+role:       AI Developer / AI Engineer
+current:    Operations Associate @ AI GenMat
+Experience: Managing Director @ AI GenMat
 location:   Islamabad, Pakistan
-education:  BS Software Engineering, FAST-NUCES Islamabad (2026-2029)
-education:  BS Artificial Intelligence, FAST-NUCES (2025-2026)
-contact:    m.awais@aigenmat.com | mawaisqq@gmail.com
+
+education:
+  current:  BS Software Engineering, FAST-NUCES Islamabad (2026 - present)
+  previous: BS Artificial Intelligence, FAST-NUCES Peshawar (2025 - 2026)
 
 focus:
-  - Agentic AI and multi-agent systems
-  - LLM fine-tuning and RAG pipelines
-  - NLP and computer vision
-  - GenAI & Automation
+  - Agentic AI & Multi-Agent Systems
+  - LLM Fine-tuning & RAG Pipelines
+  - NLP & Computer Vision
+  - GenAI & AI Automation
+  - Software Engineering
 
 languages:
   - Python
   - C++
   - C
+  - TypeScript / JavaScript
   - Bash
 
-open to:
-  - High impact AI collaborations
-  - Freelance AI systems and infrastructure work
-  - Research oriented AI engineering
+open_to:
+  - High-impact AI collaborations
+  - Freelance AI systems & infrastructure
+  - Research-oriented AI engineering
   - Agentic AI consulting
 
 portfolio:  https://ik-awais.github.io
 ```
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Language stats
+
+**Timeline**
+
+```text
+2026 - now    BS Software Engineering, FAST-NUCES Islamabad  (transferred)
+2026 - now    Operations Associate, AI GenMat  (Ex-Managing Director)
+2025 - 2026   BS Artificial Intelligence, FAST-NUCES Peshawar
+2025 - 2026   Managing Director, AI GenMat
+```
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
 
-<!-- Live synced, pulls directly from the Duolingo API -->
-<img src="https://duolingo-stats-card.vercel.app/api?username=IK-AWAIS&theme=dark" alt="Duolingo Stats — MUHAMMADAW597351" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=12&duration=4000&pause=2000&color=7DD3FC&center=true&vCenter=true&width=720&height=22&lines=Python+%7C+PyTorch+%7C+TensorFlow+%7C+OpenCV+%7C+FastAPI+%7C+Docker+%7C+AWS+%7C+LangChain+%7C+HuggingFace" />
 
-<br/><br/>
+<br><br>
 
-![Duolingo English Test](https://img.shields.io/badge/Duolingo%20English%20Test-130%20%2F%20130%20%28Max%20Score%29-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
-![Language](https://img.shields.io/badge/Language-English-1CB0F6?style=for-the-badge&logo=duolingo&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live%20Synced-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+![](https://img.shields.io/badge/-🤖%20AI%20%26%20ML-01411C?style=for-the-badge)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+
+<br><br>
+
+![](https://img.shields.io/badge/-🔧%20Backend%20%26%20DevOps-01411C?style=for-the-badge)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,linux,git&theme=dark" />
+
+<br><br>
+
+![](https://img.shields.io/badge/-☁️%20Cloud%20%26%20Databases-01411C?style=for-the-badge)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,firebase&theme=dark" />
+
+<br><br>
+
+![](https://img.shields.io/badge/-💻%20Languages-01411C?style=for-the-badge)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash&theme=dark" />
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tools I actually use
+<br>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[MediScan AI](https://github.com/ik-awais/Python_Projects/tree/main/PAI/Mediscan)** | End-to-end medical image analysis pipeline: fine-tuned ViT for X-ray classification, anomaly detection, and automated radiology report generation | `PyTorch` `HuggingFace` `OpenCV` `FastAPI` |
+| **[AI Research Assistant](https://github.com/ik-awais/ai-research-agent)** | Multi-step agentic workflow for automated research synthesis, retrieval, and structured summarization | `LangChain` `LlamaIndex` `Python` |
+| **[Document Q&A System](https://github.com/ik-awais)** | RAG-based intelligent document querying with precise, context-aware answer extraction | `LangChain` `FAISS` `FastAPI` `Python` |
+
+<br>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;GitHub Stats
 
 <div align="center">
 
-![](https://img.shields.io/badge/-AI%20%26%20ML%20Core-03001e?style=for-the-badge)
+<img height="165" src="https://github-readme-stats-two-jade-68.vercel.app/api?username=ik-awais&show_icons=true&theme=dark&hide_border=true&bg_color=061A14&title_color=38BDF8&icon_color=7DD3FC&text_color=F8FAFC&rank_icon=github" />
+<img height="165" src="https://github-readme-stats-two-jade-68.vercel.app/api/top-langs/?username=ik-awais&layout=compact&theme=dark&hide_border=true&bg_color=061A14&title_color=38BDF8&text_color=F8FAFC&langs_count=8&card_width=400" />
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn&theme=dark" />
-</a>
+<br><br>
 
-<br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" title="NumPy"/>
-&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas"/>
-&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" title="Matplotlib"/>
-&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" title="Jupyter"/>
+<img src="https://streak-stats.demolab.com/?user=ik-awais&theme=dark&hide_border=true&background=061A14&stroke=006B3C&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=F8FAFC&dates=7DD3FC" width="65%" />
 
-<br/><br/>
+<br><br>
 
-![](https://img.shields.io/badge/-LLM%20%26%20RAG%20Stack-03001e?style=for-the-badge)
-
-<img src="https://skillicons.dev/icons?i=huggingface,postgres&theme=dark" />
-&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex.png" width="48" height="48" title="LlamaIndex"/>
-&nbsp;<img src="https://avatars.githubusercontent.com/u/107524900?s=200&v=4" width="48" height="48" title="ChromaDB" style="border-radius:10px"/>
-&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" title="SQLite"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/-LLM%20Providers%20%26%20APIs-03001e?style=for-the-badge)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="48" height="48" title="Google Gemini"/>
-&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/nvidia.png" width="48" height="48" title="NVIDIA NIM"/>
-&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" width="48" height="48" title="Anthropic Claude"/>
-&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/meta.png" width="48" height="48" title="Meta LLaMA"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/-Backend%20%26%20APIs-03001e?style=for-the-badge)
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,mysql,firebase&theme=dark" />
-</a>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/-Frontend%20%26%20Visualization-03001e?style=for-the-badge)
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript,html,css,threejs&theme=dark" />
-</a>
-
-<br/><img src="https://cdn.simpleicons.org/hugo/white" width="48" height="48" title="Hugo"/>
-&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio.png" width="48" height="48" title="Gradio"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/-DevOps%20%26%20Infrastructure-03001e?style=for-the-badge)
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,aws,githubactions,selenium&theme=dark" />
-</a>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/-Languages-03001e?style=for-the-badge)
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,typescript,javascript&theme=dark" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ik-awais&bg_color=061A14&color=38BDF8&line=006B3C&point=7DD3FC&area=true&hide_border=true" width="90%" />
 
 </div>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> Projects worth a look
+<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### <a href="https://github.com/ik-awais/Projects/tree/main/Programming%20for%20AI/NovaMind%20AI">NovaMind AI</a>
-
-A full stack AI research engine. It pulls from multiple search providers (Tavily, Brave, Firecrawl), runs RAG over your own documents with pgvector, and streams cited answers back through a Next.js frontend. JWT auth included, everything runs in Docker Compose.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-[![Source](https://img.shields.io/badge/Source-Projects/NovaMind_AI-00c8ff?style=flat-square&logo=github&logoColor=white)](https://github.com/ik-awais/Projects/tree/main/Programming%20for%20AI/NovaMind%20AI)
-
-</td>
-    <td width="50%" valign="top">
-
-### <a href="https://github.com/ik-awais/Python_Projects/tree/main/PAI/LectureLens">LectureLens</a>
-
-A RAG study assistant built for actual coursework. Upload PDFs, DOCX, or PPTX lecture slides, ask questions in plain English, and get back answers with the exact page cited. Indexing runs on a non blocking thread pool, files get deduped by SHA-256, and chat history is session aware.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
-![SQLite FTS5](https://img.shields.io/badge/SQLite-FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/LLaMA_3.3_70B-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/BAAI_bge--small-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-[![Source](https://img.shields.io/badge/Source-Python_Projects/LectureLens-00c8ff?style=flat-square&logo=github&logoColor=white)](https://github.com/ik-awais/Python_Projects/tree/main/PAI/LectureLens)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### <a href="https://github.com/ik-awais/Projects/tree/main/Programming%20for%20AI/Solace%20AI">Solace AI</a>
-
-An AI companion that picks up on mood. It uses VADER for real time emotion detection, drives a Three.js orb that morphs as your mood shifts, and adjusts its tone for PK, IN, AE, US, and GB users. Memory persists in SQLite, and it can switch between Gemini 1.5 Pro and NVIDIA NIM depending on the request.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_1.5_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![VADER](https://img.shields.io/badge/VADER-NLP-9d6fff?style=flat-square&logo=python&logoColor=white)
-
-[![Source](https://img.shields.io/badge/Source-Projects/Solace_AI-00c8ff?style=flat-square&logo=github&logoColor=white)](https://github.com/ik-awais/Projects/tree/main/Programming%20for%20AI/Solace%20AI)
-
-</td>
-    <td width="50%" valign="top">
-
-### <a href="https://github.com/ik-awais/Python_Projects/tree/main/Tools/file_workshop">File Workshop AI</a>
-
-A desktop toolkit for everything file related. Convert, split, merge, protect, and watermark PDFs, DOCX, XLSX, PPTX, CSV, images, audio, and video, all from one app. There's a built in Gemini assistant for asking questions about your documents and an NVIDIA powered image upscaler. No cloud needed.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-AI_Assistant-4285F4?style=flat-square&logo=google&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-NIM_Upscaler-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-UI-FF7C00?style=flat-square&logo=gradio&logoColor=white)
-![Desktop](https://img.shields.io/badge/Desktop-App-9d6fff?style=flat-square&logo=windows&logoColor=white)
-
-[![Source](https://img.shields.io/badge/Source-Python_Projects/file_workshop-00c8ff?style=flat-square&logo=github&logoColor=white)](https://github.com/ik-awais/Python_Projects/tree/main/Tools/file_workshop)
-
-</td>
-  </tr>
-</table>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub stats
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Language Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-two-jade-68.vercel.app/api?username=ik-awais&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03001e&title_color=00c8ff&icon_color=9d6fff&text_color=e8e8f0&rank_icon=github&card_width=480&v=2" width="49%"/>
-<img src="https://github-readme-stats-two-jade-68.vercel.app/api/top-langs/?username=ik-awais&layout=compact&theme=tokyonight&hide_border=true&bg_color=03001e&title_color=00c8ff&text_color=e8e8f0&langs_count=8&card_width=480" width="49%"/>
+<img src="https://duolingo-stats-card.vercel.app/api?username=MUHAMMADAW597351&theme=dark" />
+
+<br>
+
+[![Duolingo English Test](https://img.shields.io/badge/Duolingo%20English%20Test-130%20%2F%20130%20(Max%20Score)-006B3C?style=for-the-badge&logo=duolingo&logoColor=white)]()
+[![Language](https://img.shields.io/badge/Language-English-38BDF8?style=for-the-badge&logo=duolingo&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Live%20Synced-006B3C?style=for-the-badge&logo=duolingo&logoColor=white)]()
 
 </div>
 
-<img src="https://streak-stats.demolab.com/?user=ik-awais&theme=tokyonight&hide_border=true&background=03001e&stroke=4a0e8f&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff&sideLabels=e8e8f0&dates=9d6fff&v=2" width="100%"/>
+<br>
 
-
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="25"> Contribution graph
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> &nbsp;Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ik-awais/ik-awais/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ik-awais/ik-awais/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ik-awais/ik-awais/output/github-contribution-grid-snake-dark.svg" width="96%"/>
-</picture>
-
-<br/><br/>
-
-**[ik-awais.github.io](https://ik-awais.github.io)** &nbsp;·&nbsp; **[m.awais@aigenmat.com](mailto:m.awais@aigenmat.com)**
+<img src="https://raw.githubusercontent.com/ik-awais/ik-awais/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0e8f,50:0b0630,100:03001e&height=130&section=footer&text=Building%20the%20Future%20with%20AI&fontSize=20&fontColor=00c8ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=720&height=28&lines=AI+GenMat+%7C+ik-awais.github.io+%7C+m.awais%40aigenmat.com" />
+
+**[ik-awais.github.io](https://ik-awais.github.io)** &nbsp;·&nbsp; **<m.awais@aigenmat.com>**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006B3C,50:01411C,100:061A14&height=130&section=footer&text=Building%20the%20Future%20with%20AI&fontSize=20&fontColor=38BDF8&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
