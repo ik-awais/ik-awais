@@ -28,7 +28,7 @@
 
 ```yaml
 name:       Muhammad Awais
-role:       AI Developer / AI Engineer
+role:       AI Developer
 current:    Operations Associate @ AI GenMat
 Experience: Managing Director @ AI GenMat
 location:   Islamabad, Pakistan
