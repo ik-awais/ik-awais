@@ -132,7 +132,7 @@ portfolio:  https://ik-awais.github.io
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=ik-awais&theme=dark&hide_border=true&background=061A14&stroke=006B3C&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=F8FAFC&dates=7DD3FC" width="65%" />
+<img src="https://streak-stats.demolab.com/?user=ik-awais&theme=dark&hide_border=true&background=061A14&stroke=006B3C&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=F8FAFC&dates=7DD3FC" width="100%" />
 
 <br>
 
