@@ -3,7 +3,7 @@
 <img src="./assets/terminal-header.svg" width="100%" alt="Muhammad Awais"/>
 
 <br>
-
+ 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=36&lines=AI+Developer;Operations+Associate+%40+AI+GenMat;Ex-Managing+Director+%40+AI+GenMat;BS+Software+Engineering+%40+FAST-NUCES+Islamabad" alt="Roles" /></a>
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3200&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&height=30&lines=AI+GenMat+-+Building+the+Future+with+AI;Agentic+Workflows+%7C+LLM+Infrastructure+%7C+AI+Automation;GenAI+%7C+Vector+Databases+%7C+Embeddings+%7C+Fine-tuning;AI+GenMat+%7C+Smart+Solutions+for+a+Digital+World" alt="AI GenMat" /></a>
 
