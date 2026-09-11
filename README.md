@@ -34,8 +34,8 @@ Experience: Managing Director @ AI GenMat
 location:   Islamabad, Pakistan
 
 education:
-  current:  BS Software Engineering, FAST-NUCES Islamabad (2026 - present)
-  previous: BS Artificial Intelligence, FAST-NUCES Peshawar (2025 - 2026)
+current:    BS Software Engineering, FAST-NUCES Islamabad (2026 - present)
+previous:   BS Artificial Intelligence, FAST-NUCES Peshawar (2025 - 2026)
 
 focus:
   - Agentic AI & Multi-Agent Systems
