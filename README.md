@@ -73,22 +73,6 @@ contact:    m.awais@aigenmat.com | mawaisqq@gmail.com
 portfolio:  https://ik-awais.github.io
 ```
 
-### Professional Timeline
-
-| Period | Position | Organization |
-|---|---|---|
-| Jan 2027 | Operations Manager | AI GenMat |
-| Sep 2026 - Dec 2026 | Operations Associate | AI GenMat |
-| Feb 2026 - Sep 2026 | Managing Director | AI GenMat |
-| Feb 2025 - Feb 2026 | HR Operations Assistant | AI GenMat |
-
-### Education Timeline
-
-| Period | Program | Institution |
-|---|---|---|
-| 2026 - Present | BS Software Engineering | FAST-NUCES Islamabad |
-| 2025 - 2026 | BS Artificial Intelligence | FAST-NUCES Peshawar |
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" alt="Focus icon" /> Focus Areas
 
 <div align="center">
@@ -161,13 +145,13 @@ portfolio:  https://ik-awais.github.io
 
 <a href="https://asana.com"><img src="https://cdn.simpleicons.org/asana/F06A6A" width="42" height="42" alt="Asana" title="Asana" /></a>
 &nbsp;<a href="https://clickup.com"><img src="https://cdn.simpleicons.org/clickup/7B68EE" width="42" height="42" alt="ClickUp" title="ClickUp" /></a>
-&nbsp;<a href="https://slack.com"><img src="https://cdn.simpleicons.org/slack/36C5F0" width="42" height="42" alt="Slack" title="Slack" /></a>
+&nbsp;<a href="https://slack.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="42" height="42" alt="Slack" title="Slack" /></a>
 
 </div>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Projects icon" /> Projects and Repositories
 
-The projects below represent work across AI applications, automation, software engineering, collaborative development, and university coursework. Larger repositories also contain multiple projects and experiments.
+The projects below represent my own work across AI applications, automation, software engineering, and collaborative development. Larger repositories also contain multiple projects and experiments.
 
 | Project / Repository | Overview | Stack / Area |
 |---|---|---|
@@ -176,17 +160,10 @@ The projects below represent work across AI applications, automation, software e
 | **[Solace AI](https://github.com/ik-awais/Projects/tree/main/Programming%20for%20AI/Solace%20AI)** | AI companion with mood-aware responses, real-time emotion detection, a Three.js visual interface, and persistent conversation memory. | `Flask` `Three.js` `SQLite` `Gemini` `NVIDIA NIM` |
 | **[File Workshop AI](https://github.com/ik-awais/Python_Projects/tree/main/Tools/file_workshop)** | Desktop toolkit for converting, splitting, merging, protecting, and watermarking documents and media, with an integrated document assistant and image upscaling. | `Python` `Gemini` `NVIDIA NIM` `Gradio` |
 | **[Study-Bunny](https://github.com/ik-awais/Study-Bunny)** | Study-focused web application with a React and TypeScript frontend, voice API components, and deployment configuration. | `React` `TypeScript` `Vite` |
-| **[Document Q&A System](https://github.com/ik-awais/doc-qa-system)** <sub>Fork</sub> | Document question-answering app with PDF, DOCX, and TXT ingestion, conversational follow-ups, source citations, multi-document search, and summarization. | `LangChain` `FAISS` `Streamlit` `Groq` |
-| **[AI Research Assistant Agent](https://github.com/ik-awais/ai-research-agent)** <sub>Fork</sub> | Autonomous research workflow using web search and multi-source extraction to prepare structured, cited reports with TXT and PDF export. Listed as a fork rather than an original project. | `Python` `Groq` `Tavily` `Streamlit` |
 | **[Octagon](https://github.com/ik-awais/Octagon)** | Collaborative learning space built around team sprints, pull requests, code reviews, and practical software development workflows. | `C++` `Git` `Collaboration` |
-| **[DLD Semester Project](https://github.com/ik-awais/DLD-Semester-Project)** | Two-way autonomous traffic signal with a seven-segment display, simulated in Multisim and implemented as a hardware project. | `Digital Logic Design` `Multisim` `Hardware` |
 | **[Projects Monorepo](https://github.com/ik-awais/Projects)** | Collection of engineering work covering compiler construction, game development, AI/ML systems, and systems-level programming in C++ and Python. | `C++` `Python` `Compilers` `Systems` |
-| **[Python Projects](https://github.com/ik-awais/Python_Projects)** | Python learning and project collection spanning fundamentals, automation, data science, machine learning, computer vision, NLP, LLMs, RAG, and agentic workflows. | `Python` `AI/ML` `Automation` |
-| **[C/C++ Practice](https://github.com/ik-awais/C_Cpp_Practice)** | Programming practice and projects covering data structures, algorithms, OOP, system programming, and problem solving. | `C` `C++` `DSA` `OOP` |
-| **[LeetCode Solutions](https://github.com/ik-awais/Leetcode)** | Problem-solving practice in C++ and Python, including arrays, strings, two pointers, sorting, and related algorithmic patterns. | `C++` `Python` `Algorithms` |
-| **[University Assignments](https://github.com/ik-awais/University-Assignments)** | Semester-organized FAST-NUCES coursework archive containing assignments, labs, and homework in programming and computer organization. | `C` `C++` `Assembly` `Python` |
-| **[Personal Portfolio and Blog](https://github.com/ik-awais/ik-awais.github.io)** | Personal website and blog built with Hugo, custom CSS, and GitHub Actions deployment. | `Hugo` `HTML` `CSS` `GitHub Actions` |
-
+| **[Python Projects](https://github.com/ik-awais/Python_Projects)** | Collection of Python projects spanning automation, data science, machine learning, computer vision, NLP, LLMs, RAG, and agentic workflows. | `Python` `AI/ML` `Automation` |
+|
 **Browse all public repositories:** [github.com/ik-awais?tab=repositories](https://github.com/ik-awais?tab=repositories)
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="GitHub stats icon" /> GitHub Stats
