@@ -33,11 +33,11 @@ I am an Operations Manager at **[AI GenMat](https://aigenmat.com)**, working at 
 Alongside my professional work, I am pursuing a **BS in Software Engineering at FAST-NUCES Islamabad**. My academic journey began with BS Artificial Intelligence at FAST-NUCES Peshawar. My professional journey at AI GenMat has included HR operations, company leadership, and operations management.
 
 ```yaml
-name:       Muhammad Awais
-role:       Operations Manager
+name:         Muhammad Awais
+role:         Operations Manager
 organization: AI GenMat
-positioning: Operations Management | AI Implementation | Technology
-location:   Islamabad, Pakistan
+positioning:  Operations Management | AI Implementation | Technology
+location:     Islamabad, Pakistan
 
 education:
   - BS Software Engineering, FAST-NUCES Islamabad (2026 - Present)
